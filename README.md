@@ -5,6 +5,8 @@ This project predicts hotel booking cancellations using the Hotel Bookings datas
 The goal is to show that feature engineering and preprocessing improve model performance.
 
 ## Dataset
+raw.githubusercontent.com/swapnilsaurav/Dataset/refs/heads/master/hotel_bookings.csv
+
 Hotel Bookings dataset - 119,380 rows, 33 columns
 Target: is_canceled (binary classification)
 
